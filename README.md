@@ -1,1 +1,1 @@
-# HooHacks-CryptoCurrencyDashboard
+# HooHacks-LSD Trip Gallery
